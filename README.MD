@@ -1,13 +1,22 @@
-# MY-NEWS APP
+# News App
+A flask news application that dispalys articles on various categories such as sports,economics and intenational news.This application consumes the NEWS API to display articles.
+### By Kevin Ambundo
 
-### Author: Kevin Ligare Ambundo
-          My name is Kevin Ligare Ambundo and I am the sole contributor and creator of this project.
+## Description
+The application consumes the NEWS API to display various articles on select categories.
 
-## DESCRIPTION
-          This application allows users to view news articles on different catgories eg. sports, economy etc and provides them with links that allows the user to read further on the specific articles.
-## SETUP INSTRUCTIONS
-          Upon clicking on the link provided the user will be directed to a github repository. The user is then required to git clone the code from the repository into their local storage. Once they do this they are to then run this command:'$ python3.8 manage.py server' after activating their virtual environment and installing all dependacies as listed in the requirements.txt file. If the user does not wish to do this they can open the already deployed application from the 'about' section in the github repository.
-## TECHNOLOGIES USED
-         The technology that was used in the development of this program is a programming language known as Python.
+## Live link
 
-### Contact Information: kevinambundo3@gmail.com
+## Getting started
+The user is required to clone this repository and its content code into their local machine and 'cd' into the folder. They are then to activate their virtual environment($ source virtual/bin/activate). After activating the virtual environment they are to install all the requirements by running '$ pip install -r requirements.txt', then they can run 'python3 manage.py server' to serve the application.
+
+### Technologies used
+-Python 3.8
+
+-Flask 1.1.2
+
+-Markdown
+
+## Contact Information : kevinambundo3@gmail.com
+
+## [LICENSE] (https:https://github.com/kevin3708/News-App/blob/master/LICENSE)
